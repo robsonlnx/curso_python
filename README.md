@@ -1,2 +1,2 @@
 ## Curso de Python
-# Estudando fundamentos da lingugem python
+# Estudando os fundamentos da linguagem python
